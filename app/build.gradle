@@ -30,4 +30,6 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     implementation 'com.google.android.exoplayer:exoplayer:2.11.7'
+    implementation 'org.videolan.android:libvlc-all:3.2.6'
+
 }
